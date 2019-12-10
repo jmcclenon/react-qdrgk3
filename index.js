@@ -18,6 +18,9 @@ class App extends Component {
         <p>
           Start editing to see some magic happen :)
         </p>
+         <p>
+          Watch as your code updates the screen automatically.
+        </p>
       </div>
     );
   }
