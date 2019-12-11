@@ -16,7 +16,7 @@ class App extends Component {
       <div>
         <Hello name={this.state.name} />
         <p>Start editing to see some magic happen :)</p>
-        <p>Watch as your code updates the screen automatically.</p>
+        <p>Watch as your code updates the screen automatically while this is running on StackBlitz.</p>
       </div>
     );
   }
